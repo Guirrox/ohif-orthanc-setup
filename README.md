@@ -1,1 +1,1 @@
-# ohif-orthanc-setup
+# ohif-orthanc
